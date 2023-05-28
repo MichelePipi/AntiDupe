@@ -1,0 +1,4 @@
+name: AntiDupe
+version: '${project.version}'
+main: xyz.michlepip.antidupe.AntiDupe
+api-version: 1.19
